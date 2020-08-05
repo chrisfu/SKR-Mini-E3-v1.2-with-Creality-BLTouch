@@ -1,4 +1,4 @@
-Patches for Marlin 2.0.5.3
+Patches for Marlin 2.0.6
 
 Supporting:
 
